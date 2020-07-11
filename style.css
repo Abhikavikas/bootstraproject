@@ -1,0 +1,61 @@
+/* font-family: 'Arvo', serif;
+font-family: 'Coda', cursive;
+font-family: 'Galada', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Nova Mono', monospace;
+font-family: 'Roboto Mono', monospace; */
+
+
+body{
+    font-family:'Arvo',serif;
+    /* font-family: 'Coda', cursive, serif; */
+}
+
+.intro-box{
+    min-height:100vh;
+    padding-left:20% !important;
+}
+
+
+.yellow-box{
+    min-height:100vh;
+}
+
+
+.black-box {
+    min-height: 100vh;
+}
+
+.parag{
+    padding:0 20% !important;
+}
+
+.section-mg{
+    min-height:100vh;
+    padding-top: 10% !important;
+}
+
+.text-underline{
+    width:200px;
+    height:10px;
+    margin:0 auto;
+}
+
+.skill-section{
+    min-height:100vh;
+}
+
+
+.height-80{
+    min-height:100vh;  /*in the video it is 80vh*/
+}
+
+.about-picture{
+    background: url(background-pc.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    /* or
+    background:url(backgound-pc.jpg)center/cover no-repeat fixed */
+}
