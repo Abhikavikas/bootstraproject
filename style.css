@@ -59,3 +59,12 @@ body{
     /* or
     background:url(backgound-pc.jpg)center/cover no-repeat fixed */
 }
+
+
+
+/* project section css starts here */
+.project-underline{
+    width:75%;
+    height:5px;
+}
+/* project section css ends here */
