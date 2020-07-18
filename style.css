@@ -68,3 +68,24 @@ body{
     height:5px;
 }
 /* project section css ends here */
+
+
+/* filter css */
+#filter{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9)),
+    url(project-3.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    /* or
+    background:url(backgound-pc.jpg)center/cover no-repeat fixed */
+}
+/* filter css ends */
+
+
+/* blog section edit */
+.blog-section{
+    background-color:maroon !important;
+}
+/* blog section edit end */
